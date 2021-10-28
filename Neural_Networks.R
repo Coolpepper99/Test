@@ -5,8 +5,7 @@
 rm(list=ls())
 gc()
 
-# rm ? will remove ALL objects from your session
-# gc ? will run garbage collection to clear your RAM/memory.
+# michael
 
 if (!require(neuralnet)) install.packages("neuralnet")
 library(neuralnet)
