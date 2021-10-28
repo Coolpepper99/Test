@@ -1,4 +1,4 @@
-# A useful website is https://datascienceplus.com/fitting-neural-network-in-r/
+#michael
 
 #### Table 11.2
 
